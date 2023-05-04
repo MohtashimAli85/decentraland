@@ -20,7 +20,7 @@
     "npm": ">=6.0.0"
   },
   "dependencies": {
-    "decentraland": "^3.16.0",
+    "decentraland": "^3.16.2",
     "netlify-cli":"^14.4.0"
   }
 }
