@@ -13,8 +13,7 @@
     "lint:fix": "eslint . --ext .ts --fix"
   },
   "devDependencies": {
-    "@dcl/eslint-config": "^1.0.1",
-    "decentraland-ecs": "^6.11.12-3565335192.commit-dc04a98"
+    "@dcl/eslint-config": "^1.0.1"
   },
   "engines": {
     "node": ">=14.0.0",
